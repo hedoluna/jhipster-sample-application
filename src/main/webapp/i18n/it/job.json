@@ -1,0 +1,25 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "job": {
+            "home": {
+                "title": "Jobs",
+                "createLabel": "Genera un nuovo Job",
+                "createOrEditLabel": "Genera o modifica un Job"
+            },
+            "created": "&Egrave; stato generato un nuovo Job con identificatore {{ param }}",
+            "updated": "&Egrave; stato aggiornato Job identificato da {{ param }}",
+            "deleted": "&Egrave; stato eliminato Job con identificatore {{ param }}",
+            "delete": {
+                "question": "Sei sicuro di volere eliminare Job {{ id }}?"
+            },
+            "detail": {
+                "title": "Job"
+            },
+            "jobTitle": "Job Title",
+            "minSalary": "Min Salary",
+            "maxSalary": "Max Salary",
+            "employee": "Employee",
+            "task": "Task"
+        }
+    }
+}
